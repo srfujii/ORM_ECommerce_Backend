@@ -49,7 +49,7 @@
   Please click on the following links (please note: there are two parts) to see a walkthrough video of this application's functionality:
 
   1. [Screentastify Video Part One](https://drive.google.com/file/d/10dUPOITFAlT7zgaCsDfGjYbDMO52WiZr/view)
-  2. [Screentastify Video Part One](https://drive.google.com/file/d/1O7sP_OIsrtfB5H-Pucp2YCf9EbLcq_TU/view)
+  2. [Screentastify Video Part Two](https://drive.google.com/file/d/1O7sP_OIsrtfB5H-Pucp2YCf9EbLcq_TU/view)
 
 
   ## Screenshots
